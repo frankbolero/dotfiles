@@ -1,6 +1,7 @@
 palette = "github_dark_dimmed"
 
-format = '$directory$git_branch$git_status$character' 
+format = '$directory$git_branch$git_status$character'
+right_format = """$azure$kubernetes"""
 # right_format = '$git_branch$python'
 add_newline = true
 
