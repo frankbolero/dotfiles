@@ -3,7 +3,7 @@
 # background-blur-radius = 50
 # custom-shader = "./crt-noise.glsl"
 
-macos-titlebar-style = "hidden"
+# macos-titlebar-style = "hidden"
 clipboard-read = "allow"
 cursor-style = block
 font-family = "JetBrainsMono Nerd Font Mono"
